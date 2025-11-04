@@ -1,1 +1,2 @@
-# numpy_tasks
+# pandas_tasks
+Solving practical problems using pandas from the Innowise LMS
